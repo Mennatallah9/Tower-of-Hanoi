@@ -1,4 +1,4 @@
-# Tower-of-Hanoi
+# Tower of Hanoi
 EEC 141 course project
 ### This project was made by:
 1. [Yomna Awny](https://github.com/YomnaAwny)
